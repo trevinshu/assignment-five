@@ -29,4 +29,5 @@
 
 ## Bugs
 
-- No bugs.
+- Vercel Deployment Failed with Error: 
+    - Build optimization failed: found page without a React Component as default export in pages/add-item/styles
